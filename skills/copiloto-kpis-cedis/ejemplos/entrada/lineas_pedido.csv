@@ -1,0 +1,8 @@
+linea_id,pedido,fecha_pedido,tipo_cliente,sku,cajas_pedidas,cajas_surtidas,fecha_compromiso,fecha_embarque
+1,PED-A,2026-07-01,Tienda de barrio,SKU-0001,10,10,2026-07-02,2026-07-02
+2,PED-A,2026-07-01,Tienda de barrio,SKU-0002,5,5,2026-07-02,2026-07-02
+3,PED-A,2026-07-01,Tienda de barrio,SKU-0003,8,8,2026-07-02,2026-07-02
+4,PED-B,2026-07-01,Mayorista,SKU-0001,20,15,2026-07-02,2026-07-02
+5,PED-B,2026-07-01,Mayorista,SKU-0004,10,10,2026-07-02,2026-07-03
+6,PED-C,2026-07-01,Minisúper,SKU-0005,12,12,2026-07-03,2026-07-03
+7,PED-C,2026-07-01,Minisúper,SKU-0001,10,10,2026-07-03,2026-07-03
